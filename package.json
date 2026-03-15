@@ -1,0 +1,14 @@
+{
+  "name": "gentiluomini-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.53.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
